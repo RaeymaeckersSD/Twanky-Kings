@@ -437,6 +437,19 @@ margin-left: 0%;
 
 }
 
+@media (max-width: 480px){
+	#navlist li{
+	font-size: 1.2em;
+		padding-left: 0.5em;
+		font-weight: bold;
+		display: block;
+		background-color: grey;
+		width: 85%;
+		margin-bottom: 0.5em;
+		padding: 0.3em;
+}
+
+
 @media (max-width: 450px){
 	body{
 		background-image: url("street2.jpg");
@@ -485,17 +498,6 @@ margin-left: 0%;
 }
 
 
-@media (max-width: 390px){
-	#navlist li{
-	font-size: 1.2em;
-		padding-left: 0.5em;
-		font-weight: bold;
-		display: block;
-		background-color: grey;
-		width: 85%;
-		margin-bottom: 0.5em;
-		padding: 0.3em;
-}
 
 
 @media (max-width: 345px){
