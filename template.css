@@ -305,6 +305,7 @@ padding-bottom: 4em;
 .content-contact{
 		margin-left: 0em;
 		width: 50%;
+		background-image: url("front-back-small");
 }
 
 @media (max-width: 1391px){
