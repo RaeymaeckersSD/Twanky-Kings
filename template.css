@@ -382,6 +382,18 @@ margin-left: 0.5em;
 
 }
 
+@media (max-width: 1045px){
+	#navlist li{
+	font-size: 1.2em;
+		padding-left: 0.5em;
+		font-weight: bold;
+		display: block;
+		background-color: grey;
+		width: 85%;
+		margin-bottom: 0.5em;
+		padding: 0.3em;
+}
+
 @media (max-width: 728px){
 	.text{
 		height: 24em;
@@ -437,7 +449,7 @@ margin-left: 0%;
 
 }
 
-@media (max-width: 480px){
+@media (max-width: 490px){
 	#navlist li{
 	font-size: 1.2em;
 		padding-left: 0.5em;
