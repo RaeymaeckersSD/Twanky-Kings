@@ -302,10 +302,16 @@ padding-bottom: 4em;
 }
 
 @media (max-width: 1510px){
+.content-left{
+		margin-left: 0em;
+		width: 50%;
+		background-image: url("front-back-small.jpg");
+}
+
+@media (max-width: 1510px){
 .content-contact{
 		margin-left: 0em;
 		width: 50%;
-		background-image: url("front-back-small");
 }
 
 @media (max-width: 1391px){
