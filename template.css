@@ -382,17 +382,6 @@ margin-left: 0.5em;
 
 }
 
-@media (max-width: 1045px){
-	#navlist li{
-	font-size: 1.2em;
-		padding-left: 0.5em;
-		font-weight: bold;
-		display: block;
-		background-color: grey;
-		width: 85%;
-		margin-bottom: 0.5em;
-		padding: 0.3em;
-}
 
 @media (max-width: 728px){
 	.text{
